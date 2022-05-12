@@ -9,4 +9,6 @@ For training the CNN model , I gathered a dataset of images of SUVs and Sedans.
 
 This dataset will be uploaded in two separate repositories (SUV IMAGES , SEDAN IMAGES)
 
+Note : The images for testing the model must be gathered by the user.
+
 
